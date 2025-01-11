@@ -6,7 +6,7 @@ CHART_NAME="health-check"
 K8S_NS="dev"
 TEMPLATE="false"
 TIME_OUT="300s"
-VALUES_FILE="./charts/health-check/values.yaml"
+VALUES_FILE="./values.yaml"
 
 # Debug print.
 echo "###################################" 

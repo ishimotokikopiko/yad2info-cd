@@ -1,5 +1,5 @@
 ---
-# Source: health-check/charts/health-check/templates/service.yaml
+# Source: health-check/templates/service.yaml
 apiVersion: v1
 kind: Service
 metadata:
